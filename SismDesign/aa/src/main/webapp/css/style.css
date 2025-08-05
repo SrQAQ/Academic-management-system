@@ -1,0 +1,66 @@
+table {  
+    border-collapse: collapse;  
+    margin-top: 20px;  
+    width: 100%; 
+}  
+   
+th {  
+    background-color: #f2f2f2;  
+    padding: 8px;  
+    text-align: left; 
+    border: 1px solid #ddd;  
+}  
+  
+ 
+td {  
+    padding: 8px;  
+    text-align: left; 
+    border: 1px solid #ddd;  
+}  
+  
+ 
+form {  
+    margin: 0;  
+    padding: 0;  
+}  
+  
+
+input[type=text] {  
+    width: 100%;  
+    padding: 3px;  
+    box-sizing: border-box; 
+}  
+  
+
+.delete-btn, .update-btn {  
+    padding: 5px 10px;  
+    background-color: #4CAF50;  
+    border: none;  
+    color: white;  
+    text-align: center;  
+    text-decoration: none;  
+    display: inline-block;  
+    font-size: 14px;  
+    margin: 4px 2px;  
+    cursor: pointer;  
+}  
+  
+.update-btn {  
+    background-color: #008CBA;   
+}  
+  
+ 
+body {  
+    font-family: Arial, sans-serif;  
+}  
+  
+h1 {  
+    text-align: center;  
+}  
+  
+hr {  
+    border: none;  
+    height: 1px;  
+    color: #333;  
+    background-color: #333;  
+}
